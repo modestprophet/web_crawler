@@ -1,0 +1,23 @@
+{
+  "name": "web_crawler",
+  "version": "1.0.0",
+  "description": "A web crawler",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/modestprophet/web_crawler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/modestprophet/web_crawler/issues"
+  },
+  "homepage": "https://github.com/modestprophet/web_crawler#readme",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
